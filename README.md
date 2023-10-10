@@ -2,7 +2,6 @@
 
 
 from sklearn.preprocessing import OneHotEncoder
-from flask import Flask, render_template, request
 from sklearn.preprocessing import StandardScaler, MinMaxScaler
 #from scipy.stats import zscore
 # from sklearn.ensemble import StackingRegressor
